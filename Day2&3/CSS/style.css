@@ -1,0 +1,53 @@
+#assign1 {
+    background-color: lightblue;
+}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Croissant One", cursive;
+}
+
+#firstdiv {
+    background-color: #176b87;
+    width: 100%;
+    height: 70px;
+}
+
+.menuItem {
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 11px;
+    margin-left: 40px;
+    font-size: 22px;
+    color: white;
+    padding: 8px;
+}
+
+.menuItem:hover {
+    background-color: yellowgreen;
+    border-radius: 8px;
+    transition: all 0.5s;
+}
+
+.heroBanner {
+    background-image: url("../Image/Bg1.avif");
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.drakBg {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.486);
+}
+
+.contentArea {
+  width: 100%;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  
+}

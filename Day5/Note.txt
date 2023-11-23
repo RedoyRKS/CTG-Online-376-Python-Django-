@@ -1,0 +1,24 @@
+***long Description:
+    1. Full name
+    2. How many year experince
+    3. Exparts
+    4. Services
+    5. Instresting Note 
+
+***Short Description:
+    1. Full name 
+    2. Education 
+    3. Expert  
+    4. Future work
+
+    ##Description:
+    I am a final-year Computer Science student at United International University.
+    With a solid background in web development and software methodology,
+    I have 2 year experience in a range of technologies including Java, MySql,
+    HTML,CSS, Django, and Arduino. As an active participant in Software development.
+    Contributed to several group projects, leading in developing the Agriculture 
+    Management System and the FIFA World Cup Management System. And achieve
+    several positions in various Club competitions.
+    "Software development is the alchemy of turning imagination into innovation,
+     where lines of code weave the magic that brings digital ideas to life."
+

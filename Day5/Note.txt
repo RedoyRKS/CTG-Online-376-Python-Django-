@@ -22,3 +22,34 @@
     "Software development is the alchemy of turning imagination into innovation,
      where lines of code weave the magic that brings digital ideas to life."
 
+
+
+     Email Subject: Applying for the post of Full Stack Developer.
+
+
+
+
+     Cover Latter: 
+
+     Dear [Employer's Name],
+
+I am a recent graduate in Computer Science writing to express my interest in the web developer position at [Company Name]. With a solid foundation in HTML, CSS, and JavaScript, I am eager to contribute my skills to your team. Excited about [Company Name]'s [mention something specific about the company, e.g., innovative projects], I am confident in my ability to quickly adapt and positively impact your projects.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills align with your team's needs.
+
+Sincerely,
+[Your Name]
+
+########################
+Dear sir,
+
+I am a recent graduate in Computer Science writing to express my interest in the web developer position at Edugenskill. With a solid foundation in HTML, CSS, JavaScript, and django, I am eager to contribute my skills to your team. Excited about Edugenskill innovative projects, I am confident in my ability to quickly adapt and positively impact your projects.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills align with your team's needs.
+
+
+Sincerely,
+
+Redoy Kumar Shaha
+
+
